@@ -2,7 +2,8 @@
 
 
 ## 사용법
-프로그램 코드 최상단에 
+  1. appsecuritycontrol.py를 메인 프로그램과 같은 디렉토리로 이동시키기
+  2. 프로그램 코드 최상단에 
 ```py
 import appsecuritycontrol
 ```
